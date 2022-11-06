@@ -1,6 +1,6 @@
 # Degiskenler
 
-Bu repository Patika tarafından verilen ***C#101*** dersinin **Değişkenler ve veri Tipleri** ödevi için hazırlanmıştır.
+Bu repository Patika tarafından verilen ***C#101*** dersinin **Değişkenler ve Veri Tipleri** ödevi için hazırlanmıştır.
 
 Ödeve gitmek için linke tıklayınız.
 * [Degiskenler ödevi](https://github.com/agitcelik21/degiskenler/blob/main/Program.cs)
